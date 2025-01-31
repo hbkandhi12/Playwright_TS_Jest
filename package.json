@@ -1,0 +1,20 @@
+{
+  "name": "playwright-ts-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.50.0",
+    "@types/jest": "^29.5.14",
+    "expect": "^29.7.0",
+    "jest": "^29.7.0",
+    "playwright": "^1.50.0",
+    "ts-jest": "^29.2.5"
+  }
+}
