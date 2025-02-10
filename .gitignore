@@ -1,0 +1,22 @@
+# Node.js dependencies
+node_modules/
+
+# TypeScript output directory
+dist/
+
+# Logs
+*.log
+
+# IDE settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage/
+
+# Environment files
+.env
+node_modules
